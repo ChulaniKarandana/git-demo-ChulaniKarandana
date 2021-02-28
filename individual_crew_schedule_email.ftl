@@ -1,4 +1,0 @@
-${title}
-
-Dear Test,
-${message}
