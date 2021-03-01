@@ -1,10 +1,11 @@
 <#ftl encoding="utf-8">
 <!DOCTYPE html>
 <html>
-<header>
-    ${title}
-</header>
+<head>
+	<title>AirArabia</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
 <body>
     ${message}
 </body>
-</html>
