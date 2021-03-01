@@ -1,3 +1,8 @@
-Test2 Test3
+**Company Validation**
 
 ${message}			
+
+  First Header  | Second Header
+  ------------- | -------------
+  ${message}    | Content Cell
+  Content Cell  | Content Cell
