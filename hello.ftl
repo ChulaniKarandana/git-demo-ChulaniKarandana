@@ -1,4 +1,4 @@
-<#ftl encoding="utf-8">
+<#ftl output_format="HTML"/>
 <!DOCTYPE html>
 <html>
 <head>
