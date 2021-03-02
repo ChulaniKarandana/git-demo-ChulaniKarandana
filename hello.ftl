@@ -1,5 +1,4 @@
 <#ftl output_format="HTML"/>
-<!DOCTYPE html>
 <html>
 <head>
 Test Test
